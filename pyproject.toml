@@ -15,8 +15,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/tryph0n/tinder"
-Repository = "https://github.com/tryph0n/tinder"
+Homepage = "https://github.com/tryph0n/speed-dating-analysis"
+Repository = "https://github.com/tryph0n/speed-dating-analysis"
 
 [tool.ruff]
 line-length = 88
